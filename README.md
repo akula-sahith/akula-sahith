@@ -1,62 +1,85 @@
-# Full Stack Engineer & AI/ML Enthusiast
+# Full Stack Engineer | AI/ML Enthusiast
 
-Focused on building scalable, product-driven applications and integrating intelligent systems to solve real-world problems.
-
----
-
-### 🟢 About Me
-A product-focused engineer with a deep interest in the intersection of robust backend architecture and machine learning. I specialize in developing performant full-stack systems and deploying ML models that enhance user experience. Currently focused on optimizing large-scale distributed systems and exploring LLM orchestration.
+Building scalable backend systems and AI-powered applications that solve real-world problems.
 
 ---
 
-### 🛠 Tech Stack
+### About Me
 
-**Languages & Frameworks**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+I'm Sahith Akula, a B.Tech IT student at VR Siddhartha Engineering College (CGPA: 8.96), focused on backend engineering and intelligent systems.
 
-**Data & AI/ML**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-00BFFF?style=flat&logo=github-actions&logoColor=white)
+I specialize in building scalable full-stack applications using Spring Boot, React, and Flutter, and integrating AI/ML models into production-ready systems. Currently working on mastering distributed backend systems, microservices architecture, and LLM-powered applications.
 
 ---
 
-### 🚀 Featured Projects
+### Tech Stack
 
-**[Project Name One] | Full Stack & AI**
-* Engineered a real-time analytics dashboard reducing data latency by 40% using Redis caching and optimized SQL queries.
-* Implemented a custom NLP classification model to automate support ticket routing with 92% accuracy.
+**Languages & Frameworks**  
+![Java](https://img.shields.io/badge/Java-00BFFF?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-00BFFF?style=flat&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-00BFFF?style=flat&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-00BFFF?style=flat&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00BFFF?style=flat&logo=python&logoColor=white)
 
-**[Project Name Two] | Scalable Infrastructure**
-* Architected a microservices-based e-commerce engine supporting 10k+ concurrent users.
-* Automated deployment pipelines using Terraform and GitHub Actions, cutting deployment time by 60%.
+**Databases & Systems**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00BFFF?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-00BFFF?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00BFFF?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-00BFFF?style=flat&logo=redis&logoColor=white)
 
-**[Project Name Three] | Intelligent Systems**
-* Developed a predictive maintenance API using Scikit-learn, integrated into a React-based monitoring tool.
-* Reduced server overhead by 25% through efficient resource management and load-balanced Docker containers.
+**AI / ML & DevOps**  
+![OpenCV](https://img.shields.io/badge/OpenCV-00BFFF?style=flat&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-00BFFF?style=flat&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-00BFFF?style=flat&logo=docker&logoColor=white)
 
 ---
 
-### 🏆 Achievements
-* **[Achievement 1]**: Winner of [Hackathon Name] out of 500+ participants.
-* **[Achievement 2]**: Contributed to [Major Open Source Project], optimizing core API endpoints.
-* **[Achievement 3]**: AWS Certified Solutions Architect (Associate).
+### Featured Projects
+
+#### 🚗 Drowsiness Detection System (AI + Computer Vision)
+- Built a real-time driver fatigue detection system using OpenCV and CNN.
+- Implemented eye-closure and yawning detection for accident prevention.
+- Designed alert mechanism for real-time driver awareness.
+- Integrated IoT-based notification system for safety escalation.
+
+#### 🤖 AI Career & Employee Assistance Platform
+- Developed a full-stack AI platform using React, Express, and MongoDB.
+- Implemented resume optimization with ATS scoring logic.
+- Built AI-powered job recommendation and chatbot guidance system.
+- Integrated NLP and LLM-based career assistance modules.
+
+#### 📚 AI-Powered Studymate Application
+- Built a Flutter + Spring Boot microservices-based study assistant.
+- Implemented PDF summarization and AI-driven quiz generation.
+- Secured APIs using Spring Security and JWT authentication.
+- Containerized services using Docker for scalable deployment.
 
 ---
 
-### 📊 GitHub Insights
+### Achievements
+
+- 🥇 Winner – Game of Algorithms (IEEE Student Chapter)
+- 🥇 Startup Competition – ECE Department
+- 🥈 Bughunt Event – ACM Student Chapter
+- 🥈 24-Hour Hackathon – PS Engineering College
+
+---
+
+### GitHub Insights
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akula-sahith&show_icons=true&theme=tokyonight&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=00BFFF&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akula-sahith&show_icons=true&theme=github_dark&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akula-sahith&layout=compact&theme=github_dark&hide_border=true&title_color=00BFFF&text_color=ffffff" />
 </p>
 
 ---
 
-### 📩 Connect With Me
-* **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **Email**: [your.email@provider.com](mailto:your.email@provider.com)
-* **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
+### Connect With Me
 
-**Building the future, one commit at a time.**
+- LinkedIn: https://linkedin.com/in/sahithakula  
+- Email: akulasahith268@gmail.com  
+- GitHub: https://github.com/akula-sahith  
+
+---
+
+**Focused on building scalable systems. Learning every day. Shipping consistently.**
