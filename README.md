@@ -7,8 +7,8 @@
 
 <div align="center">
   
-[![GitHub followers](https://img.shields.io/github/followers/sahithakula?style=social)](https://github.com/sahithakula)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/sahithakula)
+[![GitHub followers](https://img.shields.io/github/followers/sahithakula?style=social)](https://github.com/akula-sahith)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/akula-lakshmi-venkata-sahith-7a577b384/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:akulasahith268@gmail.com)
 [![Phone](https://img.shields.io/badge/-Phone-25D366?style=flat&logo=WhatsApp&logoColor=white)](tel:+918341999296)
 
@@ -173,7 +173,7 @@ Mobile learning companion with AI-driven study tools.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahithakula&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akula-sahith&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahithakula&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
@@ -188,7 +188,7 @@ Mobile learning companion with AI-driven study tools.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahithakula)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahithakula)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akula-lakshmi-venkata-sahith-7a577b384/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akulasahith268@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
