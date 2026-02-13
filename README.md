@@ -76,7 +76,7 @@ I specialize in building scalable full-stack applications using Spring Boot, Rea
 
 ### Connect With Me
 
-- LinkedIn: https://linkedin.com/in/sahithakula  
+- LinkedIn: https://www.linkedin.com/in/akula-lakshmi-venkata-sahith-7a577b384/  
 - Email: akulasahith268@gmail.com  
 - GitHub: https://github.com/akula-sahith  
 
