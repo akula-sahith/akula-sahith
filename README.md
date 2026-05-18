@@ -1,57 +1,84 @@
 # Sahith Akula
 
-**Full Stack Engineer** • Building systems that scale, solve problems, and ship fast.
+Full Stack & AI Engineer building scalable backend systems and intelligent applications.
 
-Currently focused on distributed architectures, microservices, and LLM-powered applications. Final year B.Tech IT student at VR Siddhartha Engineering College (CGPA: 8.96).
-
----
-
-## What I'm Working With
-
-**Backend & Architecture**  
-Java • Spring Boot • Node.js • Microservices • REST APIs • Event-driven systems
-
-**Frontend & Mobile**  
-React • TypeScript • Flutter • Responsive design
-
-**Data & ML**  
-PostgreSQL • MongoDB • Redis • TensorFlow • OpenCV • LLM integration
-
-**Infrastructure**  
-Docker • Kubernetes • Git • Linux • CI/CD
+B.Tech Information Technology student at VR Siddhartha Engineering College (CGPA: 8.97) with experience in backend engineering, full-stack development, AI-powered systems, and real-time intelligent applications.
 
 ---
 
-## Featured Work
+## Tech Stack
 
-### 🚗 Drowsiness Detection System
-Real-time driver fatigue monitoring using computer vision and IoT integration. Detects eye closure patterns and yawning to prevent accidents before they happen.  
-**Stack:** OpenCV, CNN, Python, IoT sensors
+### Backend Engineering
 
-### 🤖 AI Career Assistant
-Full-stack platform that helps job seekers optimize resumes for ATS, get personalized job recommendations, and receive AI-powered career guidance.  
-**Stack:** React, Express, MongoDB, LLM APIs
+Java • Spring Boot • REST APIs • Microservices • Node.js • Express.js
 
-### 📚 AI Studymate
-Microservices-based learning platform with PDF summarization, AI-generated quizzes, and JWT authentication. Fully containerized for deployment.  
-**Stack:** Flutter, Spring Boot, Docker, JWT
+### Frontend & Mobile
 
----
+React.js • Flutter • HTML • CSS • TailwindCSS
 
-## Competitive Wins
+### AI / ML
 
-**Winner** – Game of Algorithms (IEEE) • Startup Competition (ECE Dept)  
-**Runner-Up** – Bughunt (ACM) • 24-Hour Hackathon (PS Engineering College)
+Machine Learning • Deep Learning • Scikit-learn • TensorFlow • LLMs • RAG • LangChain • Ollama • OpenCV • YOLO (v8/v12) • Agentic AI Workflows
 
----
+### Databases & Cloud
 
-## Get in Touch
+PostgreSQL • MySQL • MongoDB • ChromaDB • Qdrant • Firebase • AWS
 
-[LinkedIn](https://www.linkedin.com/in/akula-lakshmi-venkata-sahith-7a577b384/) • [Email](mailto:akulasahith268@gmail.com) • [GitHub](https://github.com/akula-sahith)
+### DevOps & Tools
+
+Docker • Git • GitHub Actions • Linux • CI/CD
 
 ---
 
-```
-💡 Currently: Building distributed backend systems, learning event-driven architecture
-🤝 Open to: Collaborations on full-stack projects, AI/ML applications, open source
+## Featured Projects
+
+### 🚦 Traffic Sign Recognition & Violation Detection System
+
+Research-oriented intelligent traffic monitoring system using YOLOv12, Flask, Spring Boot, MongoDB, and Flutter with real-time traffic sign detection and automated violation analysis.
+
+### 🌍 Sentinel — AI Risk Intelligence Platform
+
+AI-powered multi-business risk intelligence platform analyzing geopolitical, financial, and supply-chain risks using LLM-driven event interpretation and simulation dashboards.
+
+### 🤖 Orchestrate — RAG Support Intelligence System
+
+Built structured RAG workflows using LangChain, ChromaDB, and FastAPI for intelligent support ticket triage, semantic retrieval, and grounded AI responses.
+
+---
+
+## Experience
+
+### Full Stack Developer Intern — Univybe
+
+Worked on full-stack applications using React.js, Spring Boot, Flutter, Firebase, and REST APIs in an Agile development environment.
+
+---
+
+## Certifications
+
+* AWS Certified Cloud Practitioner
+* Docker Mastery
+* Spring Boot Development
+* Machine Learning & Deep Learning
+
+---
+
+## Achievements
+
+* 1st Prize — Startup Competition
+* 2nd Prize — 24-Hour Hackathon
+* Vice Convener — Institute Innovation Council
+* Solved 300+ DSA Problems
+
+---
+
+## Connect With Me
+
+* GitHub: github.com/akula-sahith
+* LinkedIn: linkedin.com/in/akula-lakshmi-venkata-sahith
+* Email: [akulasahith268@gmail.com](mailto:akulasahith268@gmail.com)
+
+```txt id="current-focus"
+Currently Exploring:
+Scalable Backend Systems • AI Agents • Machine Learning • Deep Learning • RAG Pipelines • System Design
 ```
